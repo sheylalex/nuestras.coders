@@ -1,0 +1,29 @@
+.titulo{
+	margin-left: 120px;
+}
+.linea{
+	border: 2px solid black;
+	width: 10%;
+	margin-left: 120px;
+	}
+.contenedor{
+	display: inline-block;
+	padding: 10px;
+	width: 1000px
+
+}
+.foto{
+	display: inline-block;
+	width:  250px;
+	height: 250px;
+	position: relative;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+p{
+	position: absolute;
+	margin-top: 180px;
+	margin-left: 80px;
+	color: white;
+
+}
