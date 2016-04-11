@@ -13,13 +13,19 @@
 
 }
 .foto{
+
 	display: inline-block;
 	width:  250px;
 	height: 250px;
 	position: relative;
 	margin-right: 5px;
 	margin-bottom: 5px;
+	opacity: 0.5;
 }
+.foto:hover{
+	opacity: 1;
+}
+	
 p{
 	position: absolute;
 	margin-top: 180px;
